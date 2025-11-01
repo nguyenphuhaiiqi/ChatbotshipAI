@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbotship AI</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f2f2f2; }
+    h1 { color: #0078ff; }
+    p { color: #333; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Xin chào 👋, tôi là Chatbotship AI!</h1>
+  <p>Website này được tạo bằng điện thoại, nhờ hướng dẫn của ChatGPT 😄</p>
+</body>
+</html>
